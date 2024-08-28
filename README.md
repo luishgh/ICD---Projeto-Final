@@ -4,6 +4,6 @@ Projeto final do curso de Introdução à Ciência de Dados da UFMG[^1], ministr
 [^1]: [https://icd-ufmg.github.io/](https://icd-ufmg.github.io/) e [https://ufmg.br/cursos/graduacao/2377/91205/73803](https://ufmg.br/cursos/graduacao/2377/91205/73803)
 
 Integrantes:
-- [ Ivanir Paulo Cardoso Ignacchitti]()
+- [ Ivanir Paulo Cardoso Ignacchitti](https://github.com/ivanir9)
 - [Luis Henrique Gomes Higino](https://github.com/luishgh/)
 - [Mateus Vitor Mota Vasconcelos](https://github.com/mateusvmv/)
